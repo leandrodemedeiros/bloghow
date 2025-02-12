@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "Como fazer 1001 coisas!",
-    "base_url": "https://bookworm-light-astro.vercel.app",
+    "base_url": "https://leandrodemedeiros.github.io/bloghow/",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
