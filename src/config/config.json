@@ -1,0 +1,35 @@
+{
+  "site": {
+    "title": "Como fazer 1001 coisas!",
+    "base_url": "https://bookworm-light-astro.vercel.app",
+    "base_path": "/",
+    "trailing_slash": false,
+    "favicon": "/images/favicon.png",
+    "logo": "/images/logo.png",
+    "logo_width": "200",
+    "logo_height": "34",
+    "logo_text": "Como fazer 1001 coisas!"
+  },
+
+  "settings": {
+    "pagination": 5,
+    "summary_length": 100
+  },
+
+  "metadata": {
+    "meta_author": "Como fazer 1001 coisas",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "Como fazer 1001 coisas!"
+  },
+
+  "params": {
+    "contact_form_action": "#",
+    "copyright": "Copyright © 2025 Como fazer 1001 coisas"
+  },
+
+  "contactinfo": {
+    "address": "355 S Grand Ave <br/> Los Angeles, CA 90071",
+    "email": "contato@amplitudemkt.com.br",
+    "phone": ""
+  }
+}
